@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: evropeyskaya-ruletka-onlayn.github.io
+Sitemap: https://evropeyskaya-ruletka-onlayn.github.io/sitemap.xml
